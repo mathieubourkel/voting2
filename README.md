@@ -1,3 +1,1 @@
-# voting
-# VotingAlyra
 # voting2
